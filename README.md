@@ -2,8 +2,9 @@
 ## placeholder
 
 This repo will be used to contain projects completed in the course **stats220**
+at *UOA*
 
-*placeholder*
+
 1. placeholder
 2. placeholder
 
