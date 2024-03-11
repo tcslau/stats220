@@ -2,7 +2,7 @@
 ## placeholder
 
 This repo will be used to contain projects completed in the course **stats220**
-at *UOA*
+at *University of Auckland*.
 
 
 1. placeholder
