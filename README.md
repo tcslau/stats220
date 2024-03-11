@@ -1,10 +1,12 @@
 # STATS220
+
+
+This repo will be used to contain projects completed in the course **Stats220**
+at the *University of Auckland*.
+
+You can find out more about the course [here](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243).
+
 ## placeholder
-
-This repo will be used to contain projects completed in the course **stats220**
-at *University of Auckland*.
-
-
 1. placeholder
 2. placeholder
 
@@ -12,5 +14,5 @@ at *University of Auckland*.
 * placeholder
 * placeholder
 
-[]()
+
 ![]()
