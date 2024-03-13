@@ -6,7 +6,7 @@ at the *University of Auckland*.
 
 You can find out more about the course [here](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243).
 
-## Course information
+### Course information
 Topics covered include:
 1. Creating HTML by combining modern technologies
 2. Creating web-based dynamic reporting systems
